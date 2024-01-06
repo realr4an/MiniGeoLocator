@@ -1,5 +1,5 @@
 # Small-Location-Grabber
-Title: User Location Retrieval Script
+User Location Retrieval Script
 
 Description:
 This JavaScript file contains functions to retrieve a user's location based on their IP address using two external APIs. The file consists of three main functions:
